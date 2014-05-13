@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/jasonkuhrt/resolve-config/issues"
   },
-  "homepage": "https://github.com/jasonkuhrt/resolve-config"
+  "homepage": "https://github.com/jasonkuhrt/resolve-config",
+  "dependencies": {
+    "merge-util": "^0.1.0"
+  }
 }
