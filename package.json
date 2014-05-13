@@ -29,5 +29,8 @@
   "homepage": "https://github.com/jasonkuhrt/resolve-config",
   "dependencies": {
     "merge-util": "^0.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^1.18.2"
   }
 }
