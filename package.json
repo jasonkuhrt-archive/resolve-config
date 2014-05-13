@@ -4,7 +4,8 @@
   "description": "Multi-environment configuration resolution",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha",
+    "dev": "mocha --reporter spec --watch"
   },
   "repository": {
     "type": "git",
