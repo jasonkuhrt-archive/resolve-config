@@ -1,0 +1,29 @@
+{
+  "name": "resolve-config",
+  "version": "0.0.0",
+  "description": "Multi-environment configuration resolution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jasonkuhrt/resolve-config.git"
+  },
+  "keywords": [
+    "conf",
+    "configuration",
+    "resolve",
+    "merge",
+    "object",
+    "util",
+    "env",
+    "setup"
+  ],
+  "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jasonkuhrt/resolve-config/issues"
+  },
+  "homepage": "https://github.com/jasonkuhrt/resolve-config"
+}
