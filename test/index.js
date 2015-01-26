@@ -1,6 +1,3 @@
-/* globals describe, it, beforeEach */
-'use strict';
-
 var a = require('assert');
 var f = require('../');
 

@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/jasonkuhrt/resolve-config",
   "dependencies": {
-    "merge-util": "^0.1.0"
+    "deep-extend": "^0.3.2"
   },
   "devDependencies": {
     "mocha": "^1.18.2"

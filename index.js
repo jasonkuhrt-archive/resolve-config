@@ -1,6 +1,4 @@
-'use strict';
-
-var merge = require('merge-util');
+var merge = require('deep-extend');
 var utils = require('./lib/utils');
 
 
