@@ -1,11 +1,11 @@
 {
-  "name": "resolve-config",
-  "version": "0.0.1",
-  "description": "Multi-environment configuration resolution",
-  "main": "index.js",
+  "license": "MIT",
   "scripts": {
     "test": "mocha",
     "dev": "mocha --reporter spec --watch"
+  },
+  "dependencies": {
+    "deep-extend": "^0.3.2"
   },
   "repository": {
     "type": "git",
@@ -22,15 +22,15 @@
     "setup"
   ],
   "author": "Jason Kuhrt <jasonkuhrt@me.com> (http://jasonkuhrt.com/)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/jasonkuhrt/resolve-config/issues"
-  },
+  "name": "resolve-config",
   "homepage": "https://github.com/jasonkuhrt/resolve-config",
-  "dependencies": {
-    "deep-extend": "^0.3.2"
-  },
+  "version": "0.0.2",
+  "main": "index.js",
+  "description": "Multi-environment configuration resolution",
   "devDependencies": {
     "mocha": "^1.18.2"
+  },
+  "bugs": {
+    "url": "https://github.com/jasonkuhrt/resolve-config/issues"
   }
 }
